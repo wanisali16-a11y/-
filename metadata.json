@@ -1,0 +1,6 @@
+{
+  "name": "Grocery POS",
+  "description": "Simple grocery store point of sale system with calculator, sales, purchases, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
